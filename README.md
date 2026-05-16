@@ -3,7 +3,7 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahinraza)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahinraza)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahin556)
 
 **DevOps Engineer | Cloud Infrastructure Specialist | Kubernetes Expert**
 
@@ -86,7 +86,7 @@ DevOps Engineer with a strong focus on **cloud-native technologies**, **Infrastr
 
 ## Featured Projects
 
-### [Production-Grade AWS EKS Platform](https://github.com/mahinraza/gowebapp-config)
+### [Production-Grade AWS EKS Platform](https://github.com/mahin556/gowebapp-config)
 **Complete end-to-end production Kubernetes deployment on AWS**
 
 - Multi-AZ EKS cluster with external RDS database
@@ -100,7 +100,7 @@ DevOps Engineer with a strong focus on **cloud-native technologies**, **Infrastr
 
 ---
 
-### [HA Kubernetes Cluster - From Scratch](https://github.com/mahinraza/highly-available-kubernetes-cluster/tree/7)
+### [HA Kubernetes Cluster - From Scratch](https://github.com/mahin556/highly-available-kubernetes-cluster/tree/7)
 **Production-style HA Kubernetes with external etcd (bare metal)**
 
 - Zero single points of failure architecture
@@ -113,7 +113,7 @@ DevOps Engineer with a strong focus on **cloud-native technologies**, **Infrastr
 
 ---
 
-### [HA Kubernetes - Ansible Automation](https://github.com/mahinraza/highly-available-kubernetes-cluster/tree/8)
+### [HA Kubernetes - Ansible Automation](https://github.com/mahin556/highly-available-kubernetes-cluster/tree/8)
 **Fully automated HA Kubernetes deployment with Ansible**
 
 - Complete cluster automation with Ansible playbooks
@@ -142,8 +142,8 @@ DevOps Engineer with a strong focus on **cloud-native technologies**, **Infrastr
 
 <!-- <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahinraza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahinraza&layout=compact&theme=algolia&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahin556&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahin556&layout=compact&theme=algolia&hide_border=true&langs_count=8" />
 
 </div> -->
 
@@ -155,12 +155,12 @@ DevOps Engineer with a strong focus on **cloud-native technologies**, **Infrastr
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahinraza&theme=react-dark&hide_border=true&area=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahin556&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahinraza&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="mahinraza" />
+  <img src="https://komarev.com/ghpvc/?username=mahin556&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="mahinraza" />
 </p>
 
 ---
@@ -180,7 +180,7 @@ DevOps Engineer with a strong focus on **cloud-native technologies**, **Infrastr
 I'm always open to discussing DevOps, cloud infrastructure, and automation!
 
 - 💼 [LinkedIn](https://linkedin.com/in/mahinraza)
-- 🐙 [GitHub](https://github.com/mahinraza)
+- 🐙 [GitHub](https://github.com/mahin556)
 - 📧 Email: *[mahinraza556@gmail.com]*
 
 ---
@@ -189,6 +189,6 @@ I'm always open to discussing DevOps, cloud infrastructure, and automation!
 
 **"Infrastructure as Code. Automate Everything. Ship with Confidence."**
 
-⭐️ From [mahinraza](https://github.com/mahinraza)
+⭐️ From [mahinraza](https://github.com/mahin556)
 
 </div>
