@@ -86,7 +86,7 @@ DevOps Engineer with a strong focus on **cloud-native technologies**, **Infrastr
 
 ## Featured Projects
 
-### [Production-Grade AWS EKS Platform](https://github.com/mahin556/gowebapp-config)
+### [Production-Grade AWS EKS Platform](https://github.com/Mahin556/gowebapp-config)
 **Complete end-to-end production Kubernetes deployment on AWS**
 
 - Multi-AZ EKS cluster with external RDS database
