@@ -17,7 +17,7 @@
 
 DevOps Engineer with a strong focus on **cloud-native technologies**, **Infrastructure as Code**, and **production-grade Kubernetes deployments**. I specialize in designing highly available systems and automating everything from infrastructure provisioning to application delivery.
 
-- Currently working as **DevOps Engineer** at Global IT Providers
+- Currently working as **DevOps Engineer** at Grras Solutions (P) Ltd
 - B.Tech in Computer Science
 - Building production-ready infrastructure on AWS and bare-metal Kubernetes
 - Continuously learning and experimenting with cloud-native tools
