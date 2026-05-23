@@ -181,7 +181,7 @@ I'm always open to discussing DevOps, cloud infrastructure, and automation!
 
 - 💼 [LinkedIn](https://linkedin.com/in/mahinraza)
 - 🐙 [GitHub](https://github.com/Mahin556)
-- 📧 Email: *[mahinraza556@gmail.com]*
+- 📧 Email: *[mahinraza317@gmail.com]*
 
 ---
 
