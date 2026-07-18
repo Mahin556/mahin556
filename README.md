@@ -4,7 +4,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahinraza/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahin556)
-
+[RESUME](https://github.com/Mahin556/mahin556/blob/main/mahin_raza_resume.pdf)
 **DevOps Engineer | Cloud Infrastructure Specialist | Kubernetes Expert**
 
 *Building reliable, scalable, and automated infrastructure solutions*
