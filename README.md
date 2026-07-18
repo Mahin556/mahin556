@@ -1,6 +1,6 @@
 # Hi there, I'm Mahin Raza 👋
 
-<div align="center">
+<!-- <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahinraza/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahin556)
@@ -10,6 +10,35 @@
 
 *Building reliable, scalable, and automated infrastructure solutions*
 
+</div> -->
+
+<div align="center">
+  
+  <!-- Animated Banner / Typing Effect (using a popular SVG) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mahin+Raza+%F0%9F%91%8B;DevOps+Engineer;Cloud+Infrastructure+Specialist;Kubernetes+Expert" alt="Typing SVG" />
+  
+  <!-- Tagline -->
+  <h3>⚡ Building reliable, scalable, and automated infrastructure solutions ⚡</h3>
+
+  <!-- Social & Contact Badges - Cleaner Layout -->
+  <p>
+    <a href="https://www.linkedin.com/in/mahinraza/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/mahin556">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://github.com/Mahin556/mahin556/blob/main/mahin_raza_resume.pdf">
+      <img src="https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" />
+    </a>
+    <a href="mailto:your-email@example.com"> <!-- Replace with your email -->
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+
+  <!-- Cool Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  
 </div>
 
 ---
