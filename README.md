@@ -31,7 +31,7 @@
     <a href="https://github.com/Mahin556/mahin556/blob/main/mahin_raza_resume.pdf">
       <img src="https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" />
     </a>
-    <a href="mailto:your-email@example.com"> <!-- Replace with your email -->
+    <a href="mailto:mahinraza317@gmail.com"> <!-- Replace with your email -->
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
